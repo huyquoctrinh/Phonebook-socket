@@ -1,0 +1,26 @@
+{
+    "U1":{
+        "fullname":"Trinh Quoc Huy",
+        "dob":"11/02/2002",
+        "phone":"0931150378",
+        "email":"trnhquchuy@yahoo.com.vn",
+        "thumbnail":"./img/thumbnail/huy.jpg",
+        "avatar":"./img/full/huy.jpg"
+    },
+    "U2":{
+        "fullname":"Vo Thi Phuoc Thao",
+        "dob":"29/06/2002",
+        "phone":"0911011227",
+        "email":"20120191@student.hcmus.edu.vn",
+        "thumbnail":"./img/thumbnail/thao.jpg",
+        "avatar":"./img/full/thao.jpg"
+    },
+    "U3":{
+        "fullname":"Nguyen Anh Khoa",
+        "dob":"11/12/2002",
+        "phone":"0935136237",
+        "email":"20120118@student.hcmus.edu.vn",
+        "thumbnail":"./img/thumbnail/khoa.jpg",
+        "avatar":"./img/full/khoa.jpg"
+    }
+}
